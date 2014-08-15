@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "SAFE": {
+            "applicationId": "2xlKE9avXcu9HXVK7SnT18m7v2V030U5fM5rmCAJ", 
+            "masterKey": "ulIK5tJzuMmDnZmLOgkzXqlnDntW2WOgyUdXb4D8"
+        }, 
+        "_default": {
+            "link": "SAFE"
+        }
+    }
+}
